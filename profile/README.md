@@ -1,5 +1,11 @@
 <p align="center">
-    <img width=97% src="images/cover.png"/>
+    <img width=97% src="../images/cover.png"/>
+</p>
+
+<p align="center">
+    <a href="https://www.mariacacau.com.br/">site</a> ·
+    <a href="https://www.instagram.com/mariacacau_oficial/">instagram</a> ·
+    <a href="https://linktr.ee/mariacacau_oficial">orçamento</a>
 </p>
 
 ## Sobre
@@ -13,7 +19,7 @@ Este espaço centraliza o suporte e a documentação dos sistemas internos desen
 ## App — MC Consultas
 
 <p align="center">
-    <img width=97% src="images/demo-v4.gif"/>
+    <img width=97% src="../images/demo-v4.gif"/>
 </p>
 
 App desktop para gestão de pedidos e entregas. Lê diretamente a planilha Google Sheets e gera resumos de:
@@ -45,15 +51,3 @@ App desktop para gestão de pedidos e entregas. Lê diretamente a planilha Googl
 </table>
 
 </br>
-
----
-
-<p align="center">
-    <a href="https://www.mariacacau.com.br/">
-        <img src="images/logo.png" width="120px;" alt="Logo Maria Cacau"/>
-    </a>
-    </br>
-    <a href="https://www.mariacacau.com.br/">site</a> ·
-    <a href="https://www.instagram.com/mariacacau_oficial/">instagram</a> ·
-    <a href="https://linktr.ee/mariacacau_oficial">orçamento</a>
-</p>
